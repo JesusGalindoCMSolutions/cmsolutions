@@ -43,6 +43,15 @@
     background-image: url(../img/cmsolutions.svg);
 }
 
+.logo-10 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 40px;
+    height: 30px;
+    background-image: url(../img/10anos.png);
+}
+
 .logo-footer {
     background-size: cover;
     background-repeat: no-repeat;
@@ -50,6 +59,15 @@
     width: 400px;
     height: 140px;
     background-image: url(../img/cmsolutions_vertical.svg);
+}
+
+.logo-footer-10 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100px;
+    height: 70px;
+    background-image: url(../img/10anos-footer.png);
 }
 
 .a-contact {
